@@ -9,8 +9,6 @@ depends=(
   'git'
   'neovim'
   'zsh'
-  'oh-my-zsh-git'
-  'powerlevel10k'
   'base-devel'
   'ufw'
 )
